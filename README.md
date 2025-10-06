@@ -24,6 +24,20 @@
 
 ###
 
+#### `📤 Connect & Competitive Programming`
+  <p align="left">
+    <a href="mailto:erradilatifa6@gmail.com">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" height="43" alt="Gmail"/></a> &nbsp;
+    <a href="https://www.linkedin.com/in/latifa-erradi-34780b295">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="48" alt="LinkedIn"/></a> &nbsp;
+    <a href="https://discord.com/users/erradi_latifa">
+      <img src="https://cdn-icons-png.flaticon.com/512/5968/5968756.png" height="48" alt="Discord"/></a> &nbsp;
+    <a href="https://leetcode.com/u/erradilatifa/">
+      <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" height="48" alt="LeetCode"/></a>
+  </p>
+
+  ###
+
   <p>
     <a href="https://drive.google.com/file/d/1uAYUgMkpKZ9LRztXiCBcRvW0II8evTPn/view?usp=drive_link">
       <img src="https://img.shields.io/badge/My CV-004520?style=flat-square&logo=googledrive&logoColor=white" style="height:32px; object-fit:contain;"/></a> &nbsp;
