@@ -11,10 +11,11 @@
 ###
 
 <p align="center">
-  <a href="https://github.com/Erradilatifa">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Bienvenue%20chez%20la%20Superhéroïne%20Développeuse%20🦸‍♀️;Découvrez%20mes%20projets%20et%20créations!&font=Bold%20Code&center=true&color=30F050&pause=2000">
+  <a href="https://erradilatifa.github.io/myportfolio">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Web%20Developer%20%7C%20Software%20Engineer;Building%20Creative%20Web%20Solutions;Passionate%20about%20Technology%20and%20Design&font=Bold%20Code&center=true&color=30F050&pause=2000">
   </a>
 </p>
+
 
 
 
