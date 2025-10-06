@@ -12,9 +12,10 @@
 
 <p align="center">
   <a href="https://github.com/Erradilatifa">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Keep%20Learning%20and%20Building%20💪;Code%20with%20Passion%20❤️;Create%20with%20Imagination%20✨&font=Bold%20Code&center=true&color=30F050&pause=2000">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome%20to%20the%20Superhero%20Développeuse%20🦸‍♀️;Explore%20my%20projects%20and%20creations!&font=Bold%20Code&center=true&color=30F050&pause=2000">
   </a>
 </p>
+
 
 
 ###
