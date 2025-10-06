@@ -10,6 +10,13 @@
 
 ###
 
+<p>
+    <a href="https://www.google.com.eg/search?q=A-Hemeda"> <!-- Google Me -->
+      <img src="https://komarev.com/ghpvc/?username=a-hemeda&style=flat&color=3010A0" style="height:26px; object-fit:contain;"/></a>
+  </p>
+
+###
+
   <p>
     <a href="https://drive.google.com/file/d/1uAYUgMkpKZ9LRztXiCBcRvW0II8evTPn/view?usp=drive_link">
       <img src="https://img.shields.io/badge/My CV-004520?style=flat-square&logo=googledrive&logoColor=white" style="height:32px; object-fit:contain;"/></a> &nbsp;
