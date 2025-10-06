@@ -1,48 +1,87 @@
-<h1 align="center">Hey there! 👋 I'm ERRADI LATIFA</h1>
+<h1 align="left">Hey 👋 I'M ERRADI LATIFA</h1>
 
-<h3 align="center">Full Stack Developer & Creative Problem Solver</h3>
+###
+
+<h3 align="left">Software Developer</h3>
+
+###
+
+<h5 align="left">As a passionate web developer, I have designed and developed several web applications for different companies and projects. Through these experiences, I have strengthened my skills in research, teamwork, and problem-solving. Motivated by creativity and innovation, I continuously seek to expand my knowledge and pursue new opportunities in the field of software and web development.</h5>
+
+###
 
 <p align="center">
   <a href="https://github.com/Erradilatifa">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=22C55E&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+Profile;Full+Stack+Web+Developer;React+%7C+Node.js+%7C+Laravel;Clean+Code+Enthusiast;Turning+Ideas+into+Reality" alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome%20to%20my%20GitHub%20Profile;I'm%20Latifa%20Erradi%20👩‍💻;Web%20and%20Software%20Developer&font=Bold%20Code&center=true&color=30F050&pause=2000">
   </a>
 </p>
 
-<p align="center">
-  <a href="https://drive.google.com/file/d/1uAYUgMkpKZ9LRztXiCBcRvW0II8evTPn/view?usp=drive_link">
-    <img src="https://img.shields.io/badge/📄_My_CV-1E40AF?style=for-the-badge&logo=googledrive&logoColor=white" alt="CV"/>
-  </a>
-  <a href="https://erradilatifa.github.io/myportfolio">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-15803D?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="mailto:erradilatifa.dev@gmail.com">
-    <img src="https://img.shields.io/badge/📧_Contact_Me-DC2626?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://linkedin.com/in/erradi-latifa">
-    <img src="https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
 
----
 
-### 🚀 About Me
 
-```javascript
-const latifa = {
-  pronouns: "she" | "her",
-  code: ["JavaScript", "TypeScript", "PHP", "Java", "Dart"],
-  frontend: ["React", "Vue.js", "Next.js", "Tailwind CSS", "Bootstrap"],
-  backend: ["Node.js", "Laravel", "Express", "Spring Boot"],
-  databases: ["MySQL", "MongoDB", "PostgreSQL"],
-  tools: ["Docker", "Git", "GitHub", "GitLab", "WordPress"],
-  architecture: ["Microservices", "REST APIs", "MVC", "SPA"],
-  passions: [
-    "Clean Code Architecture",
-    "User Experience Design",
-    "Open Source Contribution",
-    "Continuous Learning",
-    "Mentoring"
-  ],
-  currentFocus: "Building scalable full-stack applications",
-  funFact: "I can debug CSS while blindfolded (almost!) 👩‍💻"
-};
+
+
+
+###
+
+  <p>
+    <a href="https://drive.google.com/file/d/1uAYUgMkpKZ9LRztXiCBcRvW0II8evTPn/view?usp=drive_link">
+      <img src="https://img.shields.io/badge/My CV-004520?style=flat-square&logo=googledrive&logoColor=white" style="height:32px; object-fit:contain;"/></a> &nbsp;
+    <a href="https://erradilatifa.github.io/myportfolio">
+      <img src="https://img.shields.io/badge/My Portfolio-00307A?style=flat-square&logo=linkfire&logoColor=white" style="height:32px; object-fit:contain;"/></a>
+  </p>
+
+###
+
+
+<h2 align="left">Top Technical Skills</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"  />
+</div>
+
+###
+
+<p align="left"></p>
+
+###      give  other desgin
